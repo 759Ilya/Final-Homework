@@ -17,7 +17,8 @@
 
 **Блок-схема алгоритма:**
 
-![](Diagram.drawio.png)
+![Diagram drawio](https://user-images.githubusercontent.com/118294464/209971259-fce33fae-291e-4e9c-9a31-c9ed4917991b.png)
+
 
 **Программа:**
 
