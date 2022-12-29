@@ -17,7 +17,7 @@
 
 **Блок-схема алгоритма:**
 
-!(Diagram.drawio)
+![](Diagram.drawio.png)
 
 **Программа:**
 
